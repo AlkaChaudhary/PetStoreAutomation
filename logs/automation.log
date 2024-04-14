@@ -1,0 +1,8 @@
+06:51:23.144 [main] INFO  api.test.UserTests - ************************* Creating user **************************************
+06:51:25.445 [main] INFO  api.test.UserTests - ************************* User is created **************************************
+06:51:25.459 [main] INFO  api.test.UserTests - ************************* Reading User Info **************************************
+06:51:26.089 [main] INFO  api.test.UserTests - ************************* User Info id displayed **************************************
+06:51:26.098 [main] INFO  api.test.UserTests - ************************* Updating User Info **************************************
+06:51:26.739 [main] INFO  api.test.UserTests - ************************* User Info is updated **************************************
+06:51:27.339 [main] INFO  api.test.UserTests - ************************* Deleting User Info **************************************
+06:51:27.960 [main] INFO  api.test.UserTests - ************************* User Info Deleted  **************************************
