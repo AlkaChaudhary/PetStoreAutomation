@@ -23,8 +23,8 @@ Step 7: Create Data driven test
 - DataProviders
 
 Step 8: Generate extent reports
-- excel sheet data
-- ExcelUtility
+- Extent reportutility
+- testng.xml file
  
 Step 9: Add logs
 - log4j2 dependency
