@@ -6,3 +6,8 @@ Link is : https://petstore.swagger.io/
 - Java + Eclipse
 - TestNg
 - Maven (Add Rest Assurd Dependencies)
+### Creating POST request Body
+1. HashMap
+2. using org.json
+3. using POJO(Plain Old Java Object)
+4. using external json file
