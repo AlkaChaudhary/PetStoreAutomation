@@ -6,11 +6,17 @@ Link is : https://petstore.swagger.io/
 ---
 ### Pre-requisites:
 Step 1:  Create Maven Project.
+
 Step 2: Update pom.xml with required dependencies.
+
 Step 3: Create Folder Structure
+
 Step 4: Create Routes.java ---> contains URL's
+
 Step 5: UserEndPoints.java ---> CURD methods implementation
+
 Step 6: Create test cases
+
 Step 7: Create Data driven test
 - excel sheet data
 - ExcelUtility
