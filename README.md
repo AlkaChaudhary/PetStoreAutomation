@@ -1,3 +1,6 @@
+
+<img width="678" alt="Screenshot 2024-04-28 at 13 48 06" src="https://github.com/AlkaChaudhary/PetStoreAutomation/assets/87438786/f3285a2a-2b36-47c8-ade6-f587b6d174c1">
+
 # Petstore API Automation
 Petstore has swagger UI link through which user can operated the CURD operations.
 RestAssured is an API/Library through which user can automate RestAPI's.
