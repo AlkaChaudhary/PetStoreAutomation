@@ -35,4 +35,8 @@ Step 8: Generate extent reports
  
 Step 9: Add logs
 - log4j2 dependency
-- log4j2.xml --->src/test/resource 
+- log4j2.xml --->src/test/resource
+
+  ### Code
+  
+![Screenshot 2024-05-07 at 08 16 59](https://github.com/AlkaChaudhary/PetStoreAutomation/assets/87438786/bd23c546-9eb0-4d80-bc08-4ff0ee9f2a0e)
